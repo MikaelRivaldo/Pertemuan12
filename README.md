@@ -15,5 +15,9 @@ class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
 # Penyelesaian
 
 • Method tambah() untuk menambah data
+
+
+
+
   
   
